@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksite_test=self.webpackChunksite_test||[]).push([[389],{389:(e,s,t)=>{t.r(s),t.d(s,{default:()=>n});var i=t(579);function n(){return(0,i.jsx)("div",{className:"LoginPage",children:(0,i.jsx)("h1",{children:"Login Page"})})}}}]);
+//# sourceMappingURL=389.e274d929.chunk.js.map
