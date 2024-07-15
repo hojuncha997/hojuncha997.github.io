@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkts_react_basic_template=self.webpackChunkts_react_basic_template||[]).push([[765],{765:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c});var s=a(579);function c(){return(0,s.jsx)("div",{children:(0,s.jsx)("h1",{children:"Login Page"})})}}}]);
+//# sourceMappingURL=765.010c44f6.chunk.js.map

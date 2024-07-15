@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkts_react_basic_template=self.webpackChunkts_react_basic_template||[]).push([[42],{42:(e,t,s)=>{s.r(t),s.d(t,{default:()=>i});var c=s(579);const r=()=>(0,c.jsx)("div",{children:(0,c.jsx)("h1",{style:{margin:"0"},children:"ProductListComponent typescript"})}),i=e=>{let{children:t}=e;return(0,c.jsx)("div",{children:(0,c.jsx)(r,{})})}}}]);
+//# sourceMappingURL=42.c70c4d7d.chunk.js.map
